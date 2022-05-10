@@ -1,0 +1,7 @@
+Part 3 - Todo list
+- DONE Create app for products
+- DONE Create database model for Category
+- DONE Add categories in admin interface
+- DONE Create a database model for products
+- DONE Add a few products in the admin interface
+- Show products on the front page
